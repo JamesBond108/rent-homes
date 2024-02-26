@@ -1,0 +1,27 @@
+@import "variable.scss";
+
+h1 {
+    color: $textcolor ;
+}
+
+h2 {
+    color: $textcolor;
+    
+    button {
+        &:hover {
+            background-color: pink;
+        }
+    }
+}
+
+body {
+    background-color: $boxBackground;
+}
+
+h3 {
+    color: $writeText;
+
+    &:hover {
+        color: white;
+    }
+}

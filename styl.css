@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: red;
+}
+h2 button:hover {
+  background-color: pink;
+}
+
+body {
+  background-color: yellow;
+}
+
+h3 {
+  color: blue;
+}
+h3:hover {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
